@@ -11,10 +11,6 @@ Bu proje, bir App Store veritabanı tasarımını ve ilgili SQL sorgularını i�
 - [Triggers](#triggers)
 - [Sorgular](#sorgular)
 
-## Veritabanı Tasarımı
-
-Bu veritabanı, App Store içindeki uygulamaların, kullanıcıların, yorumların ve diğer ilişkili bilgilerin depolanması ve yönetilmesi için tasarlanmıştır. Tablolar, ilişkiler ve sorgular, bu bilgilerin etkili bir şekilde yönetilmesini sağlar.
-
 ## Tablolar
 
 - `appHistory`: Uygulama güncelleme geçmişini tutar.
@@ -27,8 +23,6 @@ Bu veritabanı, App Store içindeki uygulamaların, kullanıcıların, yorumlar�
 - `users`: Kullanıcı bilgilerini tutar.
 
 ## İlişkiler
-
-Tablolar arasında çeşitli yabancı anahtar ilişkileri bulunmaktadır. Bu ilişkiler, aşağıdaki gibidir:
 
 - `appHistory.application_appID` -> `application.appID`
 - `appHistory.developers_developerID` -> `developers.developerID`

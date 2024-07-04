@@ -41,5 +41,5 @@ Tablolar arasında çeşitli yabancı anahtar ilişkileri bulunmaktadır. Bu ili
 - `statusHistory.application_appID` -> `application.appID`
 
 
-<img src="http://url/to/PlayStoreDatabaseFiles/images/er_diagram.png" alt="alt text" width="320" height="180">
+![ER Diyagramı](http://url/to/PlayStoreDatabaseFiles/images/er_diagram.png)
 

@@ -35,6 +35,5 @@ Bu proje, bir App Store veritabanı tasarımını ve ilgili SQL sorgularını i�
 - `statusHistory.application_appID` -> `application.appID`
 
 
-![ER Diyagramı](http://url/to/App-Store-Database-Design/PlayStoreDatabaseFiles/images
-/er_diagram.png)
+![ER Diyagramı](https://github.com/SemanurOrhan/App-Store-Database-Design/blob/main/PlayStoreDatabaseFiles/images/er_diagram.png)
 

@@ -40,5 +40,6 @@ Tablolar arasında çeşitli yabancı anahtar ilişkileri bulunmaktadır. Bu ili
 - `priceHistory.application_appID` -> `application.appID`
 - `statusHistory.application_appID` -> `application.appID`
 
-PlayStoreDatabaseFiles/images/er_diagram.png
+
+<img src="http://url/to/PlayStoreDatabaseFiles/images/er_diagram.png" alt="alt text" width="320" height="180">
 
